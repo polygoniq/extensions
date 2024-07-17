@@ -1,0 +1,118 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "blend1",
+      "name": "blend1",
+      "tagline": "Save Blender backup files to a different location than opened blend, with an easily accessible recall. Enhances cloud storage experience.",
+      "version": "1.0.2",
+      "type": "add-on",
+      "maintainer": "polygoniq <ahoy@polygoniq.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "copyright": [
+        "2018- polygoniq xyz s.r.o"
+      ],
+      "permissions": [
+        "files",
+        "network"
+      ],
+      "tags": [
+        "Scene",
+        "User Interface"
+      ],
+      "archive_url": "https://github.com/polygoniq/extensions/raw/master/data/blend1-1.0.2.zip",
+      "archive_size": 464682,
+      "archive_hash": "sha256:1dd9d0951c2bbd869b757c736c8858a99074400846a9a0a55d0f6a5df687d488"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "blenderkitty",
+      "name": "blenderkitty",
+      "tagline": "Lower your productivity immensely with cute kitten technology",
+      "version": "2.0.1",
+      "type": "add-on",
+      "maintainer": "polygoniq <ahoy@polygoniq.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "copyright": [
+        "2018- polygoniq xyz s.r.o"
+      ],
+      "permissions": [
+        "files",
+        "network"
+      ],
+      "tags": [
+        "User Interface"
+      ],
+      "archive_url": "https://github.com/polygoniq/extensions/raw/master/data/blenderkitty-2.0.1.zip",
+      "archive_size": 4977401,
+      "archive_hash": "sha256:e0eb1a7b30c92574c4e21ce071023bef77d97762ae899d14ada869601d0aa434"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "engon",
+      "name": "engon",
+      "tagline": "Browse assets, filter and sort them, scatter, animate, manipulate rigs",
+      "version": "1.2.0",
+      "type": "add-on",
+      "maintainer": "polygoniq <ahoy@polygoniq.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://docs.polygoniq.com/engon/1.0.3/",
+      "copyright": [
+        "2018- polygoniq xyz s.r.o"
+      ],
+      "permissions": [
+        "files",
+        "network"
+      ],
+      "tags": [
+        "Add Mesh",
+        "Animation",
+        "Material",
+        "Mesh",
+        "Object",
+        "Scene",
+        "User Interface"
+      ],
+      "archive_url": "https://github.com/polygoniq/extensions/raw/master/data/engon-1.2.0.zip",
+      "archive_size": 1341854,
+      "archive_hash": "sha256:90e5b9780817778142fd9614f8ccd560a065a60edfb4cc3497728d5b56821167"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "open_linked",
+      "name": "open_linked",
+      "tagline": "Open linked blends from the Outliner",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "polygoniq <ahoy@polygoniq.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/polygoniq/open_linked",
+      "copyright": [
+        "2018- polygoniq xyz s.r.o"
+      ],
+      "permissions": [
+        "files"
+      ],
+      "tags": [
+        "User Interface"
+      ],
+      "archive_url": "https://github.com/polygoniq/extensions/raw/master/data/open_linked-1.0.0.zip",
+      "archive_size": 40895,
+      "archive_hash": "sha256:535516473cac4b720e9adaef45f3175880d2bbb8bc15b3e4bf009d6383691961"
+    }
+  ]
+}
