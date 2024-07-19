@@ -41,8 +41,8 @@ By setting up a remote repository you can install and update our free extensions
 &#8291;**3.** Copy `https://extensions.polygoniq.com/api/v1/extensions` into the `URL` and click `Create`.
 
 <img src="docs/paste_url.png" alt="Paste URL" style="width: 30%">
-&#8291;**4.** This will create `polygoniq.extensions.com` extensions repository and you should see a list of available `polygoniq` extensions in the extension list. If you have the official blender extensions repository enabled, our extensions will appear after it (at bottom of the list). You can always toggle what's visible in the `Repositories` popover.
 
+&#8291;**4.** This will create `polygoniq.extensions.com` extensions repository and you should see a list of available `polygoniq` extensions in the extension list. If you have the official blender extensions repository enabled, our extensions will appear after it (at bottom of the list). You can always toggle what's visible in the `Repositories` popover.
 
 <img src="docs/extension_list.png" alt="List of extensions" style="width: 65%">
 
