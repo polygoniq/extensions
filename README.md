@@ -2,6 +2,20 @@
     <img src="docs/polygoniq_logo.png" width=50%>
 </h1>
 
+<div align="center">
+
+[![Buy on BlenderMarket](https://img.shields.io/badge/Buy_on-BlenderMarket-orange?style=flat)](https://blendermarket.com/products/engon?ref=673)
+[![Buy on Gumroad](https://img.shields.io/badge/Buy_on-Gumroad-blue?style=flat&color=%23fb80e8)](https://polygoniq.gumroad.com/l/engon/)
+
+[![Discord](https://img.shields.io/discord/742363791643115531?style=flat&logo=discord&color=%237785cc&label=Chat)](https://polygoniq.com/discord/)
+[![X (formerly Twitter) Follow](https://img.shields.io/badge/Follow-@polygoniq-black?style=flat&logo=x)](https://x.com/polygoniq/)
+[![Instagram](https://img.shields.io/badge/Follow-polygoniq.xyz-black?style=flat&logo=instagram&color=%238a3ab9)](https://www.instagram.com/polygoniq.xyz/)
+[![Facebook](https://img.shields.io/badge/Follow-polygoniq-black?style=flat&logo=facebook&color=%231877f2)](https://www.facebook.com/polygoniq/)
+[![Website](https://img.shields.io/badge/Visit-polygoniq.com-black?style=flat&logo=web&color=%23223DF0)](https://polygoniq.com/)
+
+
+</div>
+
 # polygoniq extensions repository
 
 Welcome to polygoniq extensions repository, we host all of our free Blender extensions here.
@@ -42,7 +56,7 @@ By setting up a remote repository you can install and update our free extensions
 &#8291;**3.** Copy `https://extensions.polygoniq.com/api/v1/extensions` into the `URL` and click `Create`.
 
 <img src="docs/paste_url.png" alt="Paste URL" style="width: 30%">
-
 &#8291;**4.** This will create `polygoniq.extensions.com` extensions repository and you should see a list of available `polygoniq` extensions in the extension list. If you have the official blender extensions repository enabled, our extensions will appear after it (at bottom of the list). You can always toggle what's visible in the `Repositories` popover.
+
 
 <img src="docs/extension_list.png" alt="List of extensions" style="width: 65%">
