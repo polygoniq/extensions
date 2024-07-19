@@ -6,7 +6,7 @@
       "schema_version": "1.0.0",
       "id": "blend1",
       "name": "blend1",
-      "tagline": "Save Blender backup files to a different location than opened blend, with an easily accessible recall. Enhances cloud storage experience.",
+      "tagline": "Save Blender backup files to a different location than opened blend, with an easily accessible recall. Enhances cloud storage experience",
       "version": "1.0.2",
       "type": "add-on",
       "maintainer": "polygoniq <ahoy@polygoniq.com>",
@@ -26,8 +26,8 @@
         "User Interface"
       ],
       "archive_url": "https://github.com/polygoniq/extensions/raw/master/data/blend1-1.0.2.zip",
-      "archive_size": 464682,
-      "archive_hash": "sha256:1dd9d0951c2bbd869b757c736c8858a99074400846a9a0a55d0f6a5df687d488"
+      "archive_size": 467566,
+      "archive_hash": "sha256:298a8b18325e63e70def6fcd68c2d368517bdff1c30d5586fe840520292516c5"
     },
     {
       "schema_version": "1.0.0",
