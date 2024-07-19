@@ -20,21 +20,6 @@
 
 Welcome to polygoniq extensions repository, we host all of our free Blender extensions here.
 
-## About
-
-> [!NOTE]
-> More information about our individual extensions, such as the licensing information, can be found within their respective repositories. If you encounter any issues with our extensions, please submit an issue in the relevant repository.
-
-| Addon  | Issue Tracker |
-| ------------- | ------------- |
-| [engon](https://github.com/polygoniq/engon) | [Submit Issue](https://github.com/polygoniq/engon/issues)  |
-| [blend1](https://github.com/polygoniq/blend1)  | [Submit Issue](https://github.com/polygoniq/blend1/issues)  |
-| [open_linked](https://github.com/polygoniq/open_linked)  | [Submit Issue](https://github.com/polygoniq/open_linked/issues)  |
-| [blenderkitty](https://github.com/polygoniq/blenderkitty)  | You can't have issues with `blenderkitty`.  |
-
-> [!TIP]
-> You can support development of our free extensions by purchasing some of our paid products on [BlenderMarket](https://blendermarket.com/creators/polygoniq?ref=673) or [Gumroad](https://polygoniq.gumroad.com/).
-
 ## Repository Setup
 
 By setting up a remote repository you can install and update our free extensions directly within Blender.
@@ -60,3 +45,18 @@ By setting up a remote repository you can install and update our free extensions
 
 
 <img src="docs/extension_list.png" alt="List of extensions" style="width: 65%">
+
+## About
+
+> [!NOTE]
+> More information about our individual extensions, such as the licensing information, can be found within their respective repositories. If you encounter any issues with our extensions, please submit an issue in the relevant repository.
+
+| Addon  | Issue Tracker |
+| ------------- | ------------- |
+| [engon](https://github.com/polygoniq/engon) | [Submit Issue](https://github.com/polygoniq/engon/issues)  |
+| [blend1](https://github.com/polygoniq/blend1)  | [Submit Issue](https://github.com/polygoniq/blend1/issues)  |
+| [open_linked](https://github.com/polygoniq/open_linked)  | [Submit Issue](https://github.com/polygoniq/open_linked/issues)  |
+| [blenderkitty](https://github.com/polygoniq/blenderkitty)  | You can't have issues with `blenderkitty`.  |
+
+> [!TIP]
+> You can support development of our free extensions by purchasing some of our paid products on [BlenderMarket](https://blendermarket.com/creators/polygoniq?ref=673) or [Gumroad](https://polygoniq.gumroad.com/).
