@@ -59,22 +59,22 @@
       "schema_version": "1.0.0",
       "id": "engon",
       "name": "engon",
-      "tagline": "Browse assets, filter and sort them, scatter, animate, manipulate rigs",
-      "version": "1.2.1",
+      "tagline": "Browse assets, filter and sort, scatter, animate, adjust rigs",
+      "version": "1.3.0",
       "type": "add-on",
       "maintainer": "polygoniq <ahoy@polygoniq.com>",
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "4.2.0",
-      "website": "https://docs.polygoniq.com/engon/1.2.1/",
+      "website": "https://docs.polygoniq.com/engon/1.3.0/",
       "copyright": [
         "2018- polygoniq xyz s.r.o"
       ],
-      "permissions": [
-        "files",
-        "network"
-      ],
+      "permissions": {
+        "network": "Update functionality for older Blender versions",
+        "files": "Install asset packs, load assets, store logs and state"
+      },
       "tags": [
         "Add Mesh",
         "Animation",
@@ -84,9 +84,9 @@
         "Scene",
         "User Interface"
       ],
-      "archive_url": "https://github.com/polygoniq/extensions/raw/master/data/engon-1.2.1.zip",
-      "archive_size": 1352803,
-      "archive_hash": "sha256:112e777022eea004881a7b8a4ba30cb44c4b296c9d866d8984789b2585b12e75"
+      "archive_url": "https://github.com/polygoniq/extensions/raw/master/data/engon-1.3.0.zip",
+      "archive_size": 1408033,
+      "archive_hash": "sha256:edf2b5b913feb2420f14183f0e171007e97a7fe7e0eb443640e32e5b42470700"
     },
     {
       "schema_version": "1.0.0",
