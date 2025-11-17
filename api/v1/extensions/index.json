@@ -60,14 +60,14 @@
       "id": "engon",
       "name": "engon",
       "tagline": "Browse assets, filter and sort, scatter, animate, adjust rigs",
-      "version": "1.6.1",
+      "version": "1.7.0",
       "type": "add-on",
       "maintainer": "polygoniq <ahoy@polygoniq.com>",
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "4.2.0",
-      "website": "https://docs.polygoniq.com/engon/1.6.1/",
+      "website": "https://docs.polygoniq.com/engon/1.7.0/",
       "copyright": [
         "2018- polygoniq xyz s.r.o"
       ],
@@ -84,9 +84,9 @@
         "Scene",
         "User Interface"
       ],
-      "archive_url": "https://github.com/polygoniq/extensions/raw/master/data/engon-1.6.1.zip",
-      "archive_size": 606784,
-      "archive_hash": "sha256:04f40c67f128cb00ee4ba78b5b5c08bd2ea4694a1900fc45cf643b00c5f49de5"
+      "archive_url": "https://github.com/polygoniq/extensions/raw/master/data/engon-1.7.0.zip",
+      "archive_size": 634027,
+      "archive_hash": "sha256:94a6292ffb6d77db6eecb6fc921e6a9d8b40a400f92cd82258571cec400902d5"
     },
     {
       "schema_version": "1.0.0",
